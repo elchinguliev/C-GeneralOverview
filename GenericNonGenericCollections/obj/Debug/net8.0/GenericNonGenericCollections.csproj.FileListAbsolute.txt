@@ -1,0 +1,14 @@
+C:\Users\ASUS\source\repos\C#Tekrar\GenericNonGenericCollections\bin\Debug\net8.0\GenericNonGenericCollections.exe
+C:\Users\ASUS\source\repos\C#Tekrar\GenericNonGenericCollections\bin\Debug\net8.0\GenericNonGenericCollections.deps.json
+C:\Users\ASUS\source\repos\C#Tekrar\GenericNonGenericCollections\bin\Debug\net8.0\GenericNonGenericCollections.runtimeconfig.json
+C:\Users\ASUS\source\repos\C#Tekrar\GenericNonGenericCollections\bin\Debug\net8.0\GenericNonGenericCollections.dll
+C:\Users\ASUS\source\repos\C#Tekrar\GenericNonGenericCollections\bin\Debug\net8.0\GenericNonGenericCollections.pdb
+C:\Users\ASUS\source\repos\C#Tekrar\GenericNonGenericCollections\obj\Debug\net8.0\GenericNonGenericCollections.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\C#Tekrar\GenericNonGenericCollections\obj\Debug\net8.0\GenericNonGenericCollections.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\C#Tekrar\GenericNonGenericCollections\obj\Debug\net8.0\GenericNonGenericCollections.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\C#Tekrar\GenericNonGenericCollections\obj\Debug\net8.0\GenericNonGenericCollections.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\C#Tekrar\GenericNonGenericCollections\obj\Debug\net8.0\GenericNonGenericCollections.dll
+C:\Users\ASUS\source\repos\C#Tekrar\GenericNonGenericCollections\obj\Debug\net8.0\refint\GenericNonGenericCollections.dll
+C:\Users\ASUS\source\repos\C#Tekrar\GenericNonGenericCollections\obj\Debug\net8.0\GenericNonGenericCollections.pdb
+C:\Users\ASUS\source\repos\C#Tekrar\GenericNonGenericCollections\obj\Debug\net8.0\GenericNonGenericCollections.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\C#Tekrar\GenericNonGenericCollections\obj\Debug\net8.0\ref\GenericNonGenericCollections.dll

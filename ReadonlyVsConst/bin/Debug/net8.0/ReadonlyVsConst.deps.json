@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ReadonlyVsConst/1.0.0": {
+        "runtime": {
+          "ReadonlyVsConst.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ReadonlyVsConst/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

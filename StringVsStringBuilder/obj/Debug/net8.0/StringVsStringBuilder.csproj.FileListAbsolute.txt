@@ -1,0 +1,14 @@
+C:\Users\ASUS\source\repos\C#Tekrar\StringVsStringBuilder\bin\Debug\net8.0\StringVsStringBuilder.exe
+C:\Users\ASUS\source\repos\C#Tekrar\StringVsStringBuilder\bin\Debug\net8.0\StringVsStringBuilder.deps.json
+C:\Users\ASUS\source\repos\C#Tekrar\StringVsStringBuilder\bin\Debug\net8.0\StringVsStringBuilder.runtimeconfig.json
+C:\Users\ASUS\source\repos\C#Tekrar\StringVsStringBuilder\bin\Debug\net8.0\StringVsStringBuilder.dll
+C:\Users\ASUS\source\repos\C#Tekrar\StringVsStringBuilder\bin\Debug\net8.0\StringVsStringBuilder.pdb
+C:\Users\ASUS\source\repos\C#Tekrar\StringVsStringBuilder\obj\Debug\net8.0\StringVsStringBuilder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\C#Tekrar\StringVsStringBuilder\obj\Debug\net8.0\StringVsStringBuilder.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\C#Tekrar\StringVsStringBuilder\obj\Debug\net8.0\StringVsStringBuilder.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\C#Tekrar\StringVsStringBuilder\obj\Debug\net8.0\StringVsStringBuilder.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\C#Tekrar\StringVsStringBuilder\obj\Debug\net8.0\StringVsStringBuilder.dll
+C:\Users\ASUS\source\repos\C#Tekrar\StringVsStringBuilder\obj\Debug\net8.0\refint\StringVsStringBuilder.dll
+C:\Users\ASUS\source\repos\C#Tekrar\StringVsStringBuilder\obj\Debug\net8.0\StringVsStringBuilder.pdb
+C:\Users\ASUS\source\repos\C#Tekrar\StringVsStringBuilder\obj\Debug\net8.0\StringVsStringBuilder.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\C#Tekrar\StringVsStringBuilder\obj\Debug\net8.0\ref\StringVsStringBuilder.dll

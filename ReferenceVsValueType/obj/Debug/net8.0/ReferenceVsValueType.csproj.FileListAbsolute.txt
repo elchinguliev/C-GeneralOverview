@@ -1,0 +1,14 @@
+C:\Users\ASUS\source\repos\C#Tekrar\ReferenceVsValueType\bin\Debug\net8.0\ReferenceVsValueType.exe
+C:\Users\ASUS\source\repos\C#Tekrar\ReferenceVsValueType\bin\Debug\net8.0\ReferenceVsValueType.deps.json
+C:\Users\ASUS\source\repos\C#Tekrar\ReferenceVsValueType\bin\Debug\net8.0\ReferenceVsValueType.runtimeconfig.json
+C:\Users\ASUS\source\repos\C#Tekrar\ReferenceVsValueType\bin\Debug\net8.0\ReferenceVsValueType.dll
+C:\Users\ASUS\source\repos\C#Tekrar\ReferenceVsValueType\bin\Debug\net8.0\ReferenceVsValueType.pdb
+C:\Users\ASUS\source\repos\C#Tekrar\ReferenceVsValueType\obj\Debug\net8.0\ReferenceVsValueType.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\C#Tekrar\ReferenceVsValueType\obj\Debug\net8.0\ReferenceVsValueType.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\C#Tekrar\ReferenceVsValueType\obj\Debug\net8.0\ReferenceVsValueType.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\C#Tekrar\ReferenceVsValueType\obj\Debug\net8.0\ReferenceVsValueType.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\C#Tekrar\ReferenceVsValueType\obj\Debug\net8.0\ReferenceVsValueType.dll
+C:\Users\ASUS\source\repos\C#Tekrar\ReferenceVsValueType\obj\Debug\net8.0\refint\ReferenceVsValueType.dll
+C:\Users\ASUS\source\repos\C#Tekrar\ReferenceVsValueType\obj\Debug\net8.0\ReferenceVsValueType.pdb
+C:\Users\ASUS\source\repos\C#Tekrar\ReferenceVsValueType\obj\Debug\net8.0\ReferenceVsValueType.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\C#Tekrar\ReferenceVsValueType\obj\Debug\net8.0\ref\ReferenceVsValueType.dll

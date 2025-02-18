@@ -1,0 +1,14 @@
+C:\Users\ASUS\source\repos\C#Tekrar\ReadonlyVsConst\bin\Debug\net8.0\ReadonlyVsConst.exe
+C:\Users\ASUS\source\repos\C#Tekrar\ReadonlyVsConst\bin\Debug\net8.0\ReadonlyVsConst.deps.json
+C:\Users\ASUS\source\repos\C#Tekrar\ReadonlyVsConst\bin\Debug\net8.0\ReadonlyVsConst.runtimeconfig.json
+C:\Users\ASUS\source\repos\C#Tekrar\ReadonlyVsConst\bin\Debug\net8.0\ReadonlyVsConst.dll
+C:\Users\ASUS\source\repos\C#Tekrar\ReadonlyVsConst\bin\Debug\net8.0\ReadonlyVsConst.pdb
+C:\Users\ASUS\source\repos\C#Tekrar\ReadonlyVsConst\obj\Debug\net8.0\ReadonlyVsConst.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\C#Tekrar\ReadonlyVsConst\obj\Debug\net8.0\ReadonlyVsConst.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\C#Tekrar\ReadonlyVsConst\obj\Debug\net8.0\ReadonlyVsConst.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\C#Tekrar\ReadonlyVsConst\obj\Debug\net8.0\ReadonlyVsConst.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\C#Tekrar\ReadonlyVsConst\obj\Debug\net8.0\ReadonlyVsConst.dll
+C:\Users\ASUS\source\repos\C#Tekrar\ReadonlyVsConst\obj\Debug\net8.0\refint\ReadonlyVsConst.dll
+C:\Users\ASUS\source\repos\C#Tekrar\ReadonlyVsConst\obj\Debug\net8.0\ReadonlyVsConst.pdb
+C:\Users\ASUS\source\repos\C#Tekrar\ReadonlyVsConst\obj\Debug\net8.0\ReadonlyVsConst.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\C#Tekrar\ReadonlyVsConst\obj\Debug\net8.0\ref\ReadonlyVsConst.dll

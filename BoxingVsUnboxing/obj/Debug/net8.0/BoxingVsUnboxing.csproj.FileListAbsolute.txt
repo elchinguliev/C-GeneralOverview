@@ -1,0 +1,14 @@
+C:\Users\ASUS\source\repos\C#Tekrar\BoxingVsUnboxing\bin\Debug\net8.0\BoxingVsUnboxing.exe
+C:\Users\ASUS\source\repos\C#Tekrar\BoxingVsUnboxing\bin\Debug\net8.0\BoxingVsUnboxing.deps.json
+C:\Users\ASUS\source\repos\C#Tekrar\BoxingVsUnboxing\bin\Debug\net8.0\BoxingVsUnboxing.runtimeconfig.json
+C:\Users\ASUS\source\repos\C#Tekrar\BoxingVsUnboxing\bin\Debug\net8.0\BoxingVsUnboxing.dll
+C:\Users\ASUS\source\repos\C#Tekrar\BoxingVsUnboxing\bin\Debug\net8.0\BoxingVsUnboxing.pdb
+C:\Users\ASUS\source\repos\C#Tekrar\BoxingVsUnboxing\obj\Debug\net8.0\BoxingVsUnboxing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\C#Tekrar\BoxingVsUnboxing\obj\Debug\net8.0\BoxingVsUnboxing.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\C#Tekrar\BoxingVsUnboxing\obj\Debug\net8.0\BoxingVsUnboxing.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\C#Tekrar\BoxingVsUnboxing\obj\Debug\net8.0\BoxingVsUnboxing.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\C#Tekrar\BoxingVsUnboxing\obj\Debug\net8.0\BoxingVsUnboxing.dll
+C:\Users\ASUS\source\repos\C#Tekrar\BoxingVsUnboxing\obj\Debug\net8.0\refint\BoxingVsUnboxing.dll
+C:\Users\ASUS\source\repos\C#Tekrar\BoxingVsUnboxing\obj\Debug\net8.0\BoxingVsUnboxing.pdb
+C:\Users\ASUS\source\repos\C#Tekrar\BoxingVsUnboxing\obj\Debug\net8.0\BoxingVsUnboxing.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\C#Tekrar\BoxingVsUnboxing\obj\Debug\net8.0\ref\BoxingVsUnboxing.dll
