@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ASUS\\source\\repos\\C#Tekrar\\GenericNonGenericCollections\\GenericNonGenericCollections.csproj",
+      "projectUniqueName": "C:\\Users\\ASUS\\Source\\Repos\\C-GeneralOverview\\GenericNonGenericCollections\\GenericNonGenericCollections.csproj",
       "projectName": "GenericNonGenericCollections",
-      "projectPath": "C:\\Users\\ASUS\\source\\repos\\C#Tekrar\\GenericNonGenericCollections\\GenericNonGenericCollections.csproj",
+      "projectPath": "C:\\Users\\ASUS\\Source\\Repos\\C-GeneralOverview\\GenericNonGenericCollections\\GenericNonGenericCollections.csproj",
       "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ASUS\\source\\repos\\C#Tekrar\\GenericNonGenericCollections\\obj\\",
+      "outputPath": "C:\\Users\\ASUS\\Source\\Repos\\C-GeneralOverview\\GenericNonGenericCollections\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

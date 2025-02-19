@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ASUS\\source\\repos\\C#Tekrar\\ReadonlyVsConst\\ReadonlyVsConst.csproj",
+      "projectUniqueName": "C:\\Users\\ASUS\\Source\\Repos\\C-GeneralOverview\\ReadonlyVsConst\\ReadonlyVsConst.csproj",
       "projectName": "ReadonlyVsConst",
-      "projectPath": "C:\\Users\\ASUS\\source\\repos\\C#Tekrar\\ReadonlyVsConst\\ReadonlyVsConst.csproj",
+      "projectPath": "C:\\Users\\ASUS\\Source\\Repos\\C-GeneralOverview\\ReadonlyVsConst\\ReadonlyVsConst.csproj",
       "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ASUS\\source\\repos\\C#Tekrar\\ReadonlyVsConst\\obj\\",
+      "outputPath": "C:\\Users\\ASUS\\Source\\Repos\\C-GeneralOverview\\ReadonlyVsConst\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

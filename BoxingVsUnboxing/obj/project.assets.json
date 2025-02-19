@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ASUS\\source\\repos\\C#Tekrar\\BoxingVsUnboxing\\BoxingVsUnboxing.csproj",
+      "projectUniqueName": "C:\\Users\\ASUS\\Source\\Repos\\C-GeneralOverview\\BoxingVsUnboxing\\BoxingVsUnboxing.csproj",
       "projectName": "BoxingVsUnboxing",
-      "projectPath": "C:\\Users\\ASUS\\source\\repos\\C#Tekrar\\BoxingVsUnboxing\\BoxingVsUnboxing.csproj",
+      "projectPath": "C:\\Users\\ASUS\\Source\\Repos\\C-GeneralOverview\\BoxingVsUnboxing\\BoxingVsUnboxing.csproj",
       "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ASUS\\source\\repos\\C#Tekrar\\BoxingVsUnboxing\\obj\\",
+      "outputPath": "C:\\Users\\ASUS\\Source\\Repos\\C-GeneralOverview\\BoxingVsUnboxing\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

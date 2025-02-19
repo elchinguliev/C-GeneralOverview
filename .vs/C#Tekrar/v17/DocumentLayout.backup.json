@@ -1,29 +1,37 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ASUS\\source\\repos\\C#Tekrar\\",
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\source\\repos\\C-GeneralOverview\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D4BCEB70-4069-4803-8553-CEAE11248DF2}|StringVsStringBuilder\\StringVsStringBuilder.csproj|c:\\users\\asus\\source\\repos\\c#tekrar\\stringvsstringbuilder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6FC23922-ABCC-4E4E-A0BE-9F7F8AF32910}|Delegates\\Delegates.csproj|c:\\users\\asus\\source\\repos\\c-generaloverview\\delegates\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FC23922-ABCC-4E4E-A0BE-9F7F8AF32910}|Delegates\\Delegates.csproj|solutionrelative:delegates\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CB1CEB9-C182-4365-B393-351DA21A20B4}|Events\\Events.csproj|c:\\users\\asus\\source\\repos\\c-generaloverview\\events\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CB1CEB9-C182-4365-B393-351DA21A20B4}|Events\\Events.csproj|solutionrelative:events\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4BCEB70-4069-4803-8553-CEAE11248DF2}|StringVsStringBuilder\\StringVsStringBuilder.csproj|c:\\users\\asus\\source\\repos\\c-generaloverview\\stringvsstringbuilder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D4BCEB70-4069-4803-8553-CEAE11248DF2}|StringVsStringBuilder\\StringVsStringBuilder.csproj|solutionrelative:stringvsstringbuilder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BBC009CB-71E3-40C0-BFCF-D4F4B2E8AC67}|BoxingVsUnboxing\\BoxingVsUnboxing.csproj|c:\\users\\asus\\source\\repos\\c#tekrar\\boxingvsunboxing\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BBC009CB-71E3-40C0-BFCF-D4F4B2E8AC67}|BoxingVsUnboxing\\BoxingVsUnboxing.csproj|c:\\users\\asus\\source\\repos\\c-generaloverview\\boxingvsunboxing\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BBC009CB-71E3-40C0-BFCF-D4F4B2E8AC67}|BoxingVsUnboxing\\BoxingVsUnboxing.csproj|solutionrelative:boxingvsunboxing\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B4EF00DA-67EB-451F-95A2-63033714A8AE}|GenericNonGenericCollections\\GenericNonGenericCollections.csproj|c:\\users\\asus\\source\\repos\\c#tekrar\\genericnongenericcollections\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B4EF00DA-67EB-451F-95A2-63033714A8AE}|GenericNonGenericCollections\\GenericNonGenericCollections.csproj|c:\\users\\asus\\source\\repos\\c-generaloverview\\genericnongenericcollections\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B4EF00DA-67EB-451F-95A2-63033714A8AE}|GenericNonGenericCollections\\GenericNonGenericCollections.csproj|solutionrelative:genericnongenericcollections\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{61D279BD-83E8-4E00-BA7B-4CFA5D074646}|ReadonlyVsConst\\ReadonlyVsConst.csproj|c:\\users\\asus\\source\\repos\\c#tekrar\\readonlyvsconst\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{61D279BD-83E8-4E00-BA7B-4CFA5D074646}|ReadonlyVsConst\\ReadonlyVsConst.csproj|c:\\users\\asus\\source\\repos\\c-generaloverview\\readonlyvsconst\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{61D279BD-83E8-4E00-BA7B-4CFA5D074646}|ReadonlyVsConst\\ReadonlyVsConst.csproj|solutionrelative:readonlyvsconst\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{61D279BD-83E8-4E00-BA7B-4CFA5D074646}|ReadonlyVsConst\\ReadonlyVsConst.csproj|c:\\users\\asus\\source\\repos\\c#tekrar\\readonlyvsconst\\readonlyvsconst.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{61D279BD-83E8-4E00-BA7B-4CFA5D074646}|ReadonlyVsConst\\ReadonlyVsConst.csproj|c:\\users\\asus\\source\\repos\\c-generaloverview\\readonlyvsconst\\readonlyvsconst.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{61D279BD-83E8-4E00-BA7B-4CFA5D074646}|ReadonlyVsConst\\ReadonlyVsConst.csproj|solutionrelative:readonlyvsconst\\readonlyvsconst.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4BE31C89-3315-450F-B9D5-345F360943AA}|ReferenceVsValueType\\ReferenceVsValueType.csproj|c:\\users\\asus\\source\\repos\\c#tekrar\\referencevsvaluetype\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4BE31C89-3315-450F-B9D5-345F360943AA}|ReferenceVsValueType\\ReferenceVsValueType.csproj|c:\\users\\asus\\source\\repos\\c-generaloverview\\referencevsvaluetype\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4BE31C89-3315-450F-B9D5-345F360943AA}|ReferenceVsValueType\\ReferenceVsValueType.csproj|solutionrelative:referencevsvaluetype\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -34,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 11,
+          "SelectedChildIndex": 12,
           "Children": [
             {
               "$type": "Bookmark",
@@ -82,11 +90,37 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\C-GeneralOverview\\Events\\Program.cs",
+              "RelativeDocumentMoniker": "Events\\Program.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\C-GeneralOverview\\Events\\Program.cs",
+              "RelativeToolTip": "Events\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T23:44:21.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\C#Tekrar\\StringVsStringBuilder\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\C-GeneralOverview\\Delegates\\Program.cs",
+              "RelativeDocumentMoniker": "Delegates\\Program.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\C-GeneralOverview\\Delegates\\Program.cs",
+              "RelativeToolTip": "Delegates\\Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAcwBIAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T22:27:20.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\C-GeneralOverview\\StringVsStringBuilder\\Program.cs",
               "RelativeDocumentMoniker": "StringVsStringBuilder\\Program.cs",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\C#Tekrar\\StringVsStringBuilder\\Program.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\C-GeneralOverview\\StringVsStringBuilder\\Program.cs",
               "RelativeToolTip": "StringVsStringBuilder\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -95,68 +129,63 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\C#Tekrar\\BoxingVsUnboxing\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\C-GeneralOverview\\BoxingVsUnboxing\\Program.cs",
               "RelativeDocumentMoniker": "BoxingVsUnboxing\\Program.cs",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\C#Tekrar\\BoxingVsUnboxing\\Program.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\C-GeneralOverview\\BoxingVsUnboxing\\Program.cs",
               "RelativeToolTip": "BoxingVsUnboxing\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-18T23:05:41.377Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-18T23:05:41.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ReadonlyVsConst.csproj",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Source\\Repos\\C-GeneralOverview\\ReadonlyVsConst\\ReadonlyVsConst.csproj",
+              "RelativeDocumentMoniker": "ReadonlyVsConst\\ReadonlyVsConst.csproj",
+              "ToolTip": "C:\\Users\\ASUS\\Source\\Repos\\C-GeneralOverview\\ReadonlyVsConst\\ReadonlyVsConst.csproj",
+              "RelativeToolTip": "ReadonlyVsConst\\ReadonlyVsConst.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-18T23:03:53.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\C-GeneralOverview\\ReferenceVsValueType\\Program.cs",
+              "RelativeDocumentMoniker": "ReferenceVsValueType\\Program.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\C-GeneralOverview\\ReferenceVsValueType\\Program.cs",
+              "RelativeToolTip": "ReferenceVsValueType\\Program.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAIwC0AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T22:33:10.76Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "ReadonlyVsConst",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\C#Tekrar\\ReadonlyVsConst\\ReadonlyVsConst.csproj",
-              "RelativeDocumentMoniker": "ReadonlyVsConst\\ReadonlyVsConst.csproj",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\C#Tekrar\\ReadonlyVsConst\\ReadonlyVsConst.csproj",
-              "RelativeToolTip": "ReadonlyVsConst\\ReadonlyVsConst.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-02-18T23:03:53.479Z",
-              "EditorCaption": ""
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\C-GeneralOverview\\GenericNonGenericCollections\\Program.cs",
+              "RelativeDocumentMoniker": "GenericNonGenericCollections\\Program.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\C-GeneralOverview\\GenericNonGenericCollections\\Program.cs",
+              "RelativeToolTip": "GenericNonGenericCollections\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBgAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T22:06:37.266Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\C#Tekrar\\ReferenceVsValueType\\Program.cs",
-              "RelativeDocumentMoniker": "ReferenceVsValueType\\Program.cs",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\C#Tekrar\\ReferenceVsValueType\\Program.cs",
-              "RelativeToolTip": "ReferenceVsValueType\\Program.cs",
-              "ViewState": "AgIAACQAAAAAAAAAAAAIwC0AAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-18T22:33:10.76Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\C#Tekrar\\GenericNonGenericCollections\\Program.cs",
-              "RelativeDocumentMoniker": "GenericNonGenericCollections\\Program.cs",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\C#Tekrar\\GenericNonGenericCollections\\Program.cs",
-              "RelativeToolTip": "GenericNonGenericCollections\\Program.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBgAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-18T22:06:37.266Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\C#Tekrar\\ReadonlyVsConst\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\C-GeneralOverview\\ReadonlyVsConst\\Program.cs",
               "RelativeDocumentMoniker": "ReadonlyVsConst\\Program.cs",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\C#Tekrar\\ReadonlyVsConst\\Program.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\C-GeneralOverview\\ReadonlyVsConst\\Program.cs",
               "RelativeToolTip": "ReadonlyVsConst\\Program.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-18T21:35:46.444Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-18T21:35:46.444Z"
             }
           ]
         },
