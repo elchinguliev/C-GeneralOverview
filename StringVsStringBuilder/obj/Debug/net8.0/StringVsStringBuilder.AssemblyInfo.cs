@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("StringVsStringBuilder")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+57c8689815ea62bc59044ca933ab7f94f00a721b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f13425fc6d716417bef0fccd915b5a4b20ed4ded")]
 [assembly: System.Reflection.AssemblyProductAttribute("StringVsStringBuilder")]
 [assembly: System.Reflection.AssemblyTitleAttribute("StringVsStringBuilder")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
