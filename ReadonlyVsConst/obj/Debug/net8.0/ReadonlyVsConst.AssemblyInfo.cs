@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ReadonlyVsConst")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f13425fc6d716417bef0fccd915b5a4b20ed4ded")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a1182ccf387461c61a8dc26bd61f0c2169d4acfa")]
 [assembly: System.Reflection.AssemblyProductAttribute("ReadonlyVsConst")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ReadonlyVsConst")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

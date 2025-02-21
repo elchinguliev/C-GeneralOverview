@@ -19,6 +19,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Events", "Events\Events.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DependencyInjection", "DependencyInjection\DependencyInjection.csproj", "{CC8E6D09-C5F4-4C26-A41B-B6CA27940E6B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interfaces", "Interfaces\Interfaces.csproj", "{5D7CC41E-C5AE-4EC3-A757-A8782BD4FED8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DependecjInjectionGencayYildiz", "DependecjInjectionGencayYildiz\DependecjInjectionGencayYildiz.csproj", "{FE5326FE-3C33-41EF-AE0B-6F71CED43F22}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +61,14 @@ Global
 		{CC8E6D09-C5F4-4C26-A41B-B6CA27940E6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CC8E6D09-C5F4-4C26-A41B-B6CA27940E6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CC8E6D09-C5F4-4C26-A41B-B6CA27940E6B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D7CC41E-C5AE-4EC3-A757-A8782BD4FED8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D7CC41E-C5AE-4EC3-A757-A8782BD4FED8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D7CC41E-C5AE-4EC3-A757-A8782BD4FED8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D7CC41E-C5AE-4EC3-A757-A8782BD4FED8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE5326FE-3C33-41EF-AE0B-6F71CED43F22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE5326FE-3C33-41EF-AE0B-6F71CED43F22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE5326FE-3C33-41EF-AE0B-6F71CED43F22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE5326FE-3C33-41EF-AE0B-6F71CED43F22}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
