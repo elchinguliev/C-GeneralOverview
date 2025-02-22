@@ -3,8 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\ASUS\\source\\repos\\C-GeneralOverview\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{03D2ABE2-F5C3-4D8A-81E3-26818D6642F0}|AbstractClasses\\AbstractClasses.csproj|c:\\users\\asus\\source\\repos\\c-generaloverview\\abstractclasses\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03D2ABE2-F5C3-4D8A-81E3-26818D6642F0}|AbstractClasses\\AbstractClasses.csproj|solutionrelative:abstractclasses\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30D10E43-A219-44B3-9F0A-AA110A288345}|Polymorphism\\Polymorphism.csproj|c:\\users\\asus\\source\\repos\\c-generaloverview\\polymorphism\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30D10E43-A219-44B3-9F0A-AA110A288345}|Polymorphism\\Polymorphism.csproj|solutionrelative:polymorphism\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4BCEB70-4069-4803-8553-CEAE11248DF2}|StringVsStringBuilder\\StringVsStringBuilder.csproj|c:\\users\\asus\\source\\repos\\c-generaloverview\\stringvsstringbuilder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4BCEB70-4069-4803-8553-CEAE11248DF2}|StringVsStringBuilder\\StringVsStringBuilder.csproj|solutionrelative:stringvsstringbuilder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49B3B0AC-B7D0-4773-B68F-9078DC043277}|VirtualOverride\\VirtualOverride.csproj|c:\\users\\asus\\source\\repos\\c-generaloverview\\virtualoverride\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49B3B0AC-B7D0-4773-B68F-9078DC043277}|VirtualOverride\\VirtualOverride.csproj|solutionrelative:virtualoverride\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE5326FE-3C33-41EF-AE0B-6F71CED43F22}|DependecjInjectionGencayYildiz\\DependecjInjectionGencayYildiz.csproj|c:\\users\\asus\\source\\repos\\c-generaloverview\\dependecjinjectiongencayyildiz\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE5326FE-3C33-41EF-AE0B-6F71CED43F22}|DependecjInjectionGencayYildiz\\DependecjInjectionGencayYildiz.csproj|solutionrelative:dependecjinjectiongencayyildiz\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{FE5326FE-3C33-41EF-AE0B-6F71CED43F22}|DependecjInjectionGencayYildiz\\DependecjInjectionGencayYildiz.csproj|c:\\users\\asus\\source\\repos\\c-generaloverview\\dependecjinjectiongencayyildiz\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FE5326FE-3C33-41EF-AE0B-6F71CED43F22}|DependecjInjectionGencayYildiz\\DependecjInjectionGencayYildiz.csproj|solutionrelative:dependecjinjectiongencayyildiz\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE5326FE-3C33-41EF-AE0B-6F71CED43F22}|DependecjInjectionGencayYildiz\\DependecjInjectionGencayYildiz.csproj|c:\\users\\asus\\source\\repos\\c-generaloverview\\dependecjinjectiongencayyildiz\\services\\interface\\ilog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE5326FE-3C33-41EF-AE0B-6F71CED43F22}|DependecjInjectionGencayYildiz\\DependecjInjectionGencayYildiz.csproj|solutionrelative:dependecjinjectiongencayyildiz\\services\\interface\\ilog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FE5326FE-3C33-41EF-AE0B-6F71CED43F22}|DependecjInjectionGencayYildiz\\DependecjInjectionGencayYildiz.csproj|c:\\users\\asus\\source\\repos\\c-generaloverview\\dependecjinjectiongencayyildiz\\services\\consolelog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -15,12 +39,12 @@
       "RelativeMoniker": "D:0:0:{FE5326FE-3C33-41EF-AE0B-6F71CED43F22}|DependecjInjectionGencayYildiz\\DependecjInjectionGencayYildiz.csproj|solutionrelative:dependecjinjectiongencayyildiz\\services\\testlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FE5326FE-3C33-41EF-AE0B-6F71CED43F22}|DependecjInjectionGencayYildiz\\DependecjInjectionGencayYildiz.csproj|c:\\users\\asus\\source\\repos\\c-generaloverview\\dependecjinjectiongencayyildiz\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FE5326FE-3C33-41EF-AE0B-6F71CED43F22}|DependecjInjectionGencayYildiz\\DependecjInjectionGencayYildiz.csproj|solutionrelative:dependecjinjectiongencayyildiz\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5D7CC41E-C5AE-4EC3-A757-A8782BD4FED8}|Interfaces\\Interfaces.csproj|c:\\users\\asus\\source\\repos\\c-generaloverview\\interfaces\\example.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D7CC41E-C5AE-4EC3-A757-A8782BD4FED8}|Interfaces\\Interfaces.csproj|solutionrelative:interfaces\\example.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5D7CC41E-C5AE-4EC3-A757-A8782BD4FED8}|Interfaces\\Interfaces.csproj|c:\\users\\asus\\source\\repos\\c-generaloverview\\interfaces\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5D7CC41E-C5AE-4EC3-A757-A8782BD4FED8}|Interfaces\\Interfaces.csproj|solutionrelative:interfaces\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5D7CC41E-C5AE-4EC3-A757-A8782BD4FED8}|Interfaces\\Interfaces.csproj|c:\\users\\asus\\source\\repos\\c-generaloverview\\interfaces\\iexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D7CC41E-C5AE-4EC3-A757-A8782BD4FED8}|Interfaces\\Interfaces.csproj|solutionrelative:interfaces\\iexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CC8E6D09-C5F4-4C26-A41B-B6CA27940E6B}|DependencyInjection\\DependencyInjection.csproj|c:\\users\\asus\\source\\repos\\c-generaloverview\\dependencyinjection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -55,10 +79,6 @@
       "RelativeMoniker": "D:0:0:{9CB1CEB9-C182-4365-B393-351DA21A20B4}|Events\\Events.csproj|solutionrelative:events\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D4BCEB70-4069-4803-8553-CEAE11248DF2}|StringVsStringBuilder\\StringVsStringBuilder.csproj|c:\\users\\asus\\source\\repos\\c-generaloverview\\stringvsstringbuilder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D4BCEB70-4069-4803-8553-CEAE11248DF2}|StringVsStringBuilder\\StringVsStringBuilder.csproj|solutionrelative:stringvsstringbuilder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{BBC009CB-71E3-40C0-BFCF-D4F4B2E8AC67}|BoxingVsUnboxing\\BoxingVsUnboxing.csproj|c:\\users\\asus\\source\\repos\\c-generaloverview\\boxingvsunboxing\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BBC009CB-71E3-40C0-BFCF-D4F4B2E8AC67}|BoxingVsUnboxing\\BoxingVsUnboxing.csproj|solutionrelative:boxingvsunboxing\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -86,7 +106,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 11,
+          "SelectedChildIndex": 13,
           "Children": [
             {
               "$type": "Bookmark",
@@ -134,26 +154,78 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\C-GeneralOverview\\Polymorphism\\Program.cs",
+              "RelativeDocumentMoniker": "Polymorphism\\Program.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\C-GeneralOverview\\Polymorphism\\Program.cs",
+              "RelativeToolTip": "Polymorphism\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T17:24:34.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\C-GeneralOverview\\VirtualOverride\\Program.cs",
+              "RelativeDocumentMoniker": "VirtualOverride\\Program.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\C-GeneralOverview\\VirtualOverride\\Program.cs",
+              "RelativeToolTip": "VirtualOverride\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAzwA0AAABjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T17:19:51.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\C-GeneralOverview\\AbstractClasses\\Program.cs",
+              "RelativeDocumentMoniker": "AbstractClasses\\Program.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\C-GeneralOverview\\AbstractClasses\\Program.cs",
+              "RelativeToolTip": "AbstractClasses\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T17:00:50.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ILog.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\C-GeneralOverview\\DependecjInjectionGencayYildiz\\Services\\Interface\\ILog.cs",
+              "RelativeDocumentMoniker": "DependecjInjectionGencayYildiz\\Services\\Interface\\ILog.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\C-GeneralOverview\\DependecjInjectionGencayYildiz\\Services\\Interface\\ILog.cs",
+              "RelativeToolTip": "DependecjInjectionGencayYildiz\\Services\\Interface\\ILog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T18:25:59.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\C-GeneralOverview\\DependecjInjectionGencayYildiz\\Program.cs",
               "RelativeDocumentMoniker": "DependecjInjectionGencayYildiz\\Program.cs",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\C-GeneralOverview\\DependecjInjectionGencayYildiz\\Program.cs*",
-              "RelativeToolTip": "DependecjInjectionGencayYildiz\\Program.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\C-GeneralOverview\\DependecjInjectionGencayYildiz\\Program.cs",
+              "RelativeToolTip": "DependecjInjectionGencayYildiz\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAABEAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-21T18:11:23.663Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\C-GeneralOverview\\DependecjInjectionGencayYildiz\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "DependecjInjectionGencayYildiz\\Controllers\\HomeController.cs",
               "ToolTip": "C:\\Users\\ASUS\\source\\repos\\C-GeneralOverview\\DependecjInjectionGencayYildiz\\Controllers\\HomeController.cs",
               "RelativeToolTip": "DependecjInjectionGencayYildiz\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA/AAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBUAAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-21T18:08:00.031Z",
               "EditorCaption": ""
@@ -161,45 +233,71 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\C-GeneralOverview\\StringVsStringBuilder\\Program.cs",
+              "RelativeDocumentMoniker": "StringVsStringBuilder\\Program.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\C-GeneralOverview\\StringVsStringBuilder\\Program.cs",
+              "RelativeToolTip": "StringVsStringBuilder\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T23:11:12.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IExample.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\C-GeneralOverview\\Interfaces\\IExample.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IExample.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\C-GeneralOverview\\Interfaces\\IExample.cs",
+              "RelativeToolTip": "Interfaces\\IExample.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T16:54:38.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "TestLog.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\C-GeneralOverview\\DependecjInjectionGencayYildiz\\Services\\TestLog.cs",
               "RelativeDocumentMoniker": "DependecjInjectionGencayYildiz\\Services\\TestLog.cs",
               "ToolTip": "C:\\Users\\ASUS\\source\\repos\\C-GeneralOverview\\DependecjInjectionGencayYildiz\\Services\\TestLog.cs",
               "RelativeToolTip": "DependecjInjectionGencayYildiz\\Services\\TestLog.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAPAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-21T18:06:00.441Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "ConsoleLog.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\C-GeneralOverview\\DependecjInjectionGencayYildiz\\Services\\ConsoleLog.cs",
               "RelativeDocumentMoniker": "DependecjInjectionGencayYildiz\\Services\\ConsoleLog.cs",
               "ToolTip": "C:\\Users\\ASUS\\source\\repos\\C-GeneralOverview\\DependecjInjectionGencayYildiz\\Services\\ConsoleLog.cs",
               "RelativeToolTip": "DependecjInjectionGencayYildiz\\Services\\ConsoleLog.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-21T18:05:53.487Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\C-GeneralOverview\\Interfaces\\Program.cs",
-              "RelativeDocumentMoniker": "Interfaces\\Program.cs",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\C-GeneralOverview\\Interfaces\\Program.cs",
-              "RelativeToolTip": "Interfaces\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAKAAAAAAAAAA==",
+              "DocumentIndex": 9,
+              "Title": "Example.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Source\\Repos\\C-GeneralOverview\\Interfaces\\Example.cs",
+              "RelativeDocumentMoniker": "Interfaces\\Example.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Source\\Repos\\C-GeneralOverview\\Interfaces\\Example.cs",
+              "RelativeToolTip": "Interfaces\\Example.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-21T16:44:18.685Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 12,
               "Title": "Weapon.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\C-GeneralOverview\\DependencyInjection\\Concrete\\Weapon.cs",
               "RelativeDocumentMoniker": "DependencyInjection\\Concrete\\Weapon.cs",
@@ -211,7 +309,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 13,
               "Title": "BaseAmo.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\C-GeneralOverview\\DependencyInjection\\Abstract\\BaseAmo.cs",
               "RelativeDocumentMoniker": "DependencyInjection\\Abstract\\BaseAmo.cs",
@@ -223,7 +321,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 16,
               "Title": "IAmo.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\C-GeneralOverview\\DependencyInjection\\Abstract\\IAmo.cs",
               "RelativeDocumentMoniker": "DependencyInjection\\Abstract\\IAmo.cs",
@@ -235,7 +333,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 14,
               "Title": "YAmo.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\C-GeneralOverview\\DependencyInjection\\Concrete\\YAmo.cs",
               "RelativeDocumentMoniker": "DependencyInjection\\Concrete\\YAmo.cs",
@@ -247,7 +345,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 15,
               "Title": "XAmo.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\C-GeneralOverview\\DependencyInjection\\Concrete\\XAmo.cs",
               "RelativeDocumentMoniker": "DependencyInjection\\Concrete\\XAmo.cs",
@@ -259,7 +357,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 11,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\C-GeneralOverview\\DependencyInjection\\Program.cs",
               "RelativeDocumentMoniker": "DependencyInjection\\Program.cs",
@@ -271,7 +369,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 18,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\C-GeneralOverview\\Events\\Program.cs",
               "RelativeDocumentMoniker": "Events\\Program.cs",
@@ -283,7 +381,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 17,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\C-GeneralOverview\\Delegates\\Program.cs",
               "RelativeDocumentMoniker": "Delegates\\Program.cs",
@@ -295,19 +393,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\C-GeneralOverview\\StringVsStringBuilder\\Program.cs",
-              "RelativeDocumentMoniker": "StringVsStringBuilder\\Program.cs",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\C-GeneralOverview\\StringVsStringBuilder\\Program.cs",
-              "RelativeToolTip": "StringVsStringBuilder\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-18T23:11:12.957Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 19,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\C-GeneralOverview\\BoxingVsUnboxing\\Program.cs",
               "RelativeDocumentMoniker": "BoxingVsUnboxing\\Program.cs",
@@ -319,7 +405,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 22,
               "Title": "ReadonlyVsConst.csproj",
               "DocumentMoniker": "C:\\Users\\ASUS\\Source\\Repos\\C-GeneralOverview\\ReadonlyVsConst\\ReadonlyVsConst.csproj",
               "RelativeDocumentMoniker": "ReadonlyVsConst\\ReadonlyVsConst.csproj",
@@ -331,7 +417,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 23,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\C-GeneralOverview\\ReferenceVsValueType\\Program.cs",
               "RelativeDocumentMoniker": "ReferenceVsValueType\\Program.cs",
@@ -343,7 +429,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 20,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\C-GeneralOverview\\GenericNonGenericCollections\\Program.cs",
               "RelativeDocumentMoniker": "GenericNonGenericCollections\\Program.cs",
@@ -355,7 +441,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 21,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\C-GeneralOverview\\ReadonlyVsConst\\Program.cs",
               "RelativeDocumentMoniker": "ReadonlyVsConst\\Program.cs",
